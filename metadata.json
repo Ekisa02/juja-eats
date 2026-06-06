@@ -1,0 +1,6 @@
+{
+  "name": "Juja Eats",
+  "description": "Local food ordering application connecting students and residents in Juja to eateries, kibandas, and fast-food joints.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
